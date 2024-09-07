@@ -1,0 +1,4 @@
+Fortify laravel
+1. install library fortify yang diambil dari dokumentasi laravel lalu tambahkan juga untuk php vendor dan migrate
+2. tambahkan App\Providers\FortifyServiceProvider pada config\app.php
+3.
